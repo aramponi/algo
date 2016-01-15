@@ -2,7 +2,7 @@ package com.infine.algo;
 
 public class IsomorphicString {
     public static boolean isIsomorphic(String s, String t) {
-
+        return true;
     }
 
     public static void main(String[] args) {

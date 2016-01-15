@@ -2,7 +2,7 @@ package com.infine.algo;
 
 public class FindDuplicates {
     public static int findDuplicate(int[] nums) {
-
+        return 0;
     }
 
     public static void main(String[] args) {

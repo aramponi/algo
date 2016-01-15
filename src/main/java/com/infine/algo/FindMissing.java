@@ -2,7 +2,7 @@ package com.infine.algo;
 
 public class FindMissing {
     public static int missingNumber(int[] nums) {
-
+        return 0;
     }
 
     public static void main(String[] args) {
